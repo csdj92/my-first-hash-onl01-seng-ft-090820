@@ -45,6 +45,6 @@ def adding
 
 
   # return the shipping_manifest hash below
-  print shipping_manifest
+  puts shipping_manifest[]
 
 end
